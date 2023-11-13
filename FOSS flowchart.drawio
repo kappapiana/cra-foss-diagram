@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T09:31:40.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="LQRV_g1OSacVC-bPYonF" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T09:32:33.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="XFX2cV-hz5vYarm3DQKN" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1036" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,9 +194,9 @@
           <mxGeometry x="140" y="300" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5jMWU45gTbSRWIbgQp3l-3" value="&lt;div&gt;&lt;i&gt;case by case&lt;br&gt;&lt;/i&gt;(&lt;a href=&quot;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2022:247:FULL&quot;&gt;blue guide&lt;/a&gt;, sec. 2.2)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;taking into account the &lt;br&gt;regularity of the supplies, the characteristics of the product, the intentions of the supplier, etc.&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&quot;In principle, occasional supplies by charities or hobbyists should not be considered as taking&lt;br&gt;place in a business related context.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="320" width="230" height="240" as="geometry" />
+          <mxGeometry x="550" y="330" width="210" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="5jMWU45gTbSRWIbgQp3l-8" value="No example?" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.001;entryY=0.321;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-1" target="5jMWU45gTbSRWIbgQp3l-3">
+        <mxCell id="5jMWU45gTbSRWIbgQp3l-8" value="No example?" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=-0.004;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-1" target="5jMWU45gTbSRWIbgQp3l-3">
           <mxGeometry x="-0.0037" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="570" as="sourcePoint" />
             <mxPoint x="610" y="520" as="targetPoint" />
