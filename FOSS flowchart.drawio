@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T07:59:10.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="o1wJA_ECR2FhZPCZQcTP" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T21:25:39.224Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="xrfNkeSu9wU2bo7MoLq9" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="984" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="BwlLsNXH36Q1JeJuWx23-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-1" target="BwlLsNXH36Q1JeJuWx23-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-1" value="Commercial activity?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="330" width="140" height="140" as="geometry" />
         </mxCell>
@@ -207,6 +212,12 @@
         </mxCell>
         <mxCell id="O-5FuEPC8QDrE3NkY1Fo-9" value="&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;CRA vs FOSS, an attempted reading&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;version 2023-11-13&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;&lt;a href=&quot;https://github.com/maertsen/cra-foss-diagram&quot;&gt;source&lt;/a&gt;, &lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;&lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="10" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BwlLsNXH36Q1JeJuWx23-1" value="" style="swimlane;startSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="520" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BwlLsNXH36Q1JeJuWx23-2" value="test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="441" y="538" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
