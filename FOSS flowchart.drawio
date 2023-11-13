@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T09:35:57.096Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TIte_WQRMjj3Lzp6qta2" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T10:20:33.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="M7RKl2_ZsZzTKcvhThZM" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1036" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-1" value="Commercial activity?&lt;br&gt;(examples in rec. 10)" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-1" value="Commercial activity?&lt;br&gt;&lt;div&gt;(examples: rec. 10)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="330" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-2" target="M7sf1WBETRBUM8MKy9Nu-6" edge="1">
@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-15" value="Charging a price&lt;br&gt;for&amp;nbsp; technical&lt;br&gt;support services" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-15" value="&lt;div&gt;Charging a price&lt;/div&gt;&lt;div&gt;for&amp;nbsp; technical&lt;/div&gt;&lt;div&gt;support services,&lt;/div&gt;&lt;div&gt;(when this does&lt;/div&gt;&lt;div&gt;not serve only the&lt;/div&gt;&lt;div&gt;recuperation of&amp;nbsp;&lt;/div&gt;&lt;div&gt;actual costs)&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.8333" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="400" as="sourcePoint" />
             <mxPoint x="100" y="640" as="targetPoint" />
@@ -87,27 +87,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-17" value="Software platform&lt;br&gt; to monetise&lt;br&gt;other services" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="0.4167" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="640" as="sourcePoint" />
             <mxPoint x="160" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-18" value="Personal data&lt;br&gt;as a condition&lt;br&gt;for use" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.3333" y="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219" y="640" as="sourcePoint" />
             <mxPoint x="220" y="400" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-19" value="&lt;div&gt;Accepting donations&lt;br&gt;exceeding costs&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="-0.4167" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.6667" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="277" y="640" as="sourcePoint" />
             <mxPoint x="277" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-20" value="&lt;div&gt;Yes&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-1" edge="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-20" value="&lt;div&gt;Yes, ...&lt;br&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-1" edge="1">
           <mxGeometry x="0.931" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="400" as="sourcePoint" />
             <mxPoint x="460" y="550" as="targetPoint" />
@@ -165,7 +165,7 @@
         <mxCell id="O-5FuEPC8QDrE3NkY1Fo-2" value="Open-source software steward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#FF0080;fontStyle=1;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-5" value="&lt;div&gt;No,&lt;/div&gt;&lt;div&gt;accepting donations&lt;/div&gt;&lt;div&gt;without an intention&lt;/div&gt;&lt;div&gt;to make a profit&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-26" edge="1" source="M7sf1WBETRBUM8MKy9Nu-1">
+        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-5" value="&lt;div&gt;No,&lt;br&gt;&lt;/div&gt;&lt;div&gt;accepting donations&lt;/div&gt;&lt;div&gt;without an intention&lt;/div&gt;&lt;div&gt;to make a profit&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-26" edge="1" source="M7sf1WBETRBUM8MKy9Nu-1">
           <mxGeometry x="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="640" as="sourcePoint" />
             <mxPoint x="440" y="550" as="targetPoint" />
