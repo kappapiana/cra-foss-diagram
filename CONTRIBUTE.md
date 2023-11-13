@@ -16,7 +16,7 @@ Note: app's access to Github must be authorized if not already.
 
 ## Offline
 
-Same as above, but clone the forked repo.
+Same as above, but clone the forked repo locally. No need to authorize the app in Github.
 
 1. Clone, create new branch
 2. Open from "Device"
@@ -26,4 +26,5 @@ Same as above, but clone the forked repo.
 
 ## In VScode/Codium
 
-Same as Offline, but the edit can be done locally in the 
+Same as Offline, but the edit can be done locally by installing a draw.io extension in vscode/codium. 
+
