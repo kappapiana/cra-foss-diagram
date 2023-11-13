@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T07:59:10.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="o1wJA_ECR2FhZPCZQcTP" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T10:20:33.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0" etag="M7RKl2_ZsZzTKcvhThZM" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="984" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-1" value="Commercial activity?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-1" value="Commercial activity?&lt;br&gt;&lt;div&gt;(examples: rec. 10)&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="330" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-2" target="M7sf1WBETRBUM8MKy9Nu-6" edge="1">
@@ -28,10 +28,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-3" value="Are you making a&lt;br&gt;product available on the market?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-3" value="Are you making a&lt;br&gt;product available on the market?&lt;br&gt;(Art. 3, rec. 10)" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="404" y="124" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-4" value="Are you solely&lt;br&gt;hosting or packaging on an open platform?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-4" value="Are you solely&lt;br&gt;hosting or packaging on an open platform?&lt;br&gt;(rec. 10)" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="599" y="129" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-5" value="Find some other flow chart" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -69,7 +69,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-13" value="Collaborative development?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-13" value="Collaborative development?&lt;br&gt;(Art. 3)" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="680" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-14" value="&lt;div&gt;Charging a price&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -79,36 +79,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-15" value="Charging a price&lt;br&gt;for&amp;nbsp; technical&lt;br&gt;support services" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-15" value="&lt;div&gt;Charging a price&lt;/div&gt;&lt;div&gt;for&amp;nbsp; technical&lt;/div&gt;&lt;div&gt;support services,&lt;/div&gt;&lt;div&gt;(when this does&lt;/div&gt;&lt;div&gt;not serve only the&lt;/div&gt;&lt;div&gt;recuperation of&amp;nbsp;&lt;/div&gt;&lt;div&gt;actual costs)&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.8333" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="400" as="sourcePoint" />
             <mxPoint x="100" y="640" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-17" value="Softwware platform&lt;br&gt; to monetise&lt;br&gt;other services" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="0.4167" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-17" value="Software platform&lt;br&gt; to monetise&lt;br&gt;other services" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="640" as="sourcePoint" />
             <mxPoint x="160" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-18" value="Personal data&lt;br&gt;as a condition&lt;br&gt;for use" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.3333" y="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219" y="640" as="sourcePoint" />
             <mxPoint x="220" y="400" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-19" value="&lt;div&gt;Accepting donations&lt;br&gt;exceeding costs&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="-0.4167" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.6667" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="277" y="640" as="sourcePoint" />
             <mxPoint x="277" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-20" value="Yes" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-1" edge="1">
-          <mxGeometry x="0.8621" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-20" value="&lt;div&gt;Yes, ...&lt;br&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-1" edge="1">
+          <mxGeometry x="0.931" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="400" as="sourcePoint" />
             <mxPoint x="460" y="550" as="targetPoint" />
             <mxPoint as="offset" />
@@ -123,19 +123,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="640" as="sourcePoint" />
-            <mxPoint x="320" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-25" value="other" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontStyle=0" parent="M7sf1WBETRBUM8MKy9Nu-24" vertex="1" connectable="0">
-          <mxGeometry x="-0.816" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-26" value="Outside CRA scope" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="660" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="609" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M7sf1WBETRBUM8MKy9Nu-29" value="Yes" style="endArrow=none;html=1;rounded=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.6667" width="50" height="50" relative="1" as="geometry">
@@ -157,7 +146,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M7sf1WBETRBUM8MKy9Nu-32" value="Single person&lt;br&gt;excercises control?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="M7sf1WBETRBUM8MKy9Nu-32" value="Single person&lt;br&gt;excercises control?&lt;br&gt;(Art. 3)" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="890" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="O-5FuEPC8QDrE3NkY1Fo-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O-5FuEPC8QDrE3NkY1Fo-0" target="M7sf1WBETRBUM8MKy9Nu-26" edge="1">
@@ -170,43 +159,38 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-0" value="Open-source&lt;br&gt;software steward?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-0" value="Open-source&lt;br&gt;software steward?&lt;br&gt;(Art. 3)" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="1090" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="O-5FuEPC8QDrE3NkY1Fo-2" value="Open-source software steward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCE6;strokeColor=#FF0080;fontStyle=1;strokeWidth=4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-5" value="&lt;div&gt;No,&lt;br&gt;&lt;/div&gt;&lt;div&gt;accepting donations&lt;/div&gt;&lt;div&gt;without an intention&lt;/div&gt;&lt;div&gt;to make a profit&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="M7sf1WBETRBUM8MKy9Nu-26" edge="1" source="M7sf1WBETRBUM8MKy9Nu-1">
+          <mxGeometry x="-1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="640" as="sourcePoint" />
             <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="600" as="sourcePoint" />
-            <mxPoint x="720" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-7" value="No" style="endArrow=none;html=1;rounded=0;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="0.875" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="640" as="sourcePoint" />
-            <mxPoint x="640" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="640" />
+              <mxPoint x="400" y="600" />
+              <mxPoint x="669" y="600" />
             </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O-5FuEPC8QDrE3NkY1Fo-8" value="Accepting donations&lt;br&gt;without intention&lt;br&gt;to make a profit" style="endArrow=none;html=1;rounded=0;verticalAlign=top;fontStyle=0" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry x="1" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="640" as="sourcePoint" />
-            <mxPoint x="720" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O-5FuEPC8QDrE3NkY1Fo-9" value="&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;CRA vs FOSS, an attempted reading&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;version 2023-11-13&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;&lt;a href=&quot;https://github.com/maertsen/cra-foss-diagram&quot;&gt;source&lt;/a&gt;, &lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-family: &amp;quot;FiraSans&amp;quot;;&quot;&gt;&lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0 1.0 Universal&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontStyle=0;fontSize=11;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="10" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5jMWU45gTbSRWIbgQp3l-1" value="&quot;Commercial activity is understood as providing goods in a business related context.&quot; (&lt;a href=&quot;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2022:247:FULL&quot;&gt;blue guide&lt;/a&gt;, sec. 2.2)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=20;position=0.2;base=33;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="300" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jMWU45gTbSRWIbgQp3l-3" value="&lt;div&gt;&lt;i&gt;case by case&lt;br&gt;&lt;/i&gt;(&lt;a href=&quot;https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2022:247:FULL&quot;&gt;blue guide&lt;/a&gt;, sec. 2.2)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;taking into account the &lt;br&gt;regularity of the supplies, the characteristics of the product, the intentions of the supplier, etc.&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&quot;In principle, occasional supplies by charities or hobbyists should not be considered as taking&lt;br&gt;place in a business related context.&quot;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="330" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="5jMWU45gTbSRWIbgQp3l-8" value="No example?" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=-0.004;entryY=0.286;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="M7sf1WBETRBUM8MKy9Nu-1" target="5jMWU45gTbSRWIbgQp3l-3">
+          <mxGeometry x="-0.0037" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="570" as="sourcePoint" />
+            <mxPoint x="610" y="520" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
